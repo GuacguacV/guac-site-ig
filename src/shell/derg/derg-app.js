@@ -141,7 +141,7 @@ export class DergApp extends Application {
 
           <h2 class="derg-heading">Derg</h2>
 
-          <p class="derg-subtitle">Remembering an awesome friend.</p>
+          <p class="derg-subtitle">REMEMBERING AN AWESOME FRIEND</p>
 
           <p class="derg-message">
             03/01/2025
