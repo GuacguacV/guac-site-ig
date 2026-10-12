@@ -31,9 +31,10 @@ export class LogsApp extends Application {
 Little thoughts &amp; future plans
 - NOTE: If the site breaks, just refresh! Im 99% sure there shouldn't be any errors here..?
 - i plan on making the songs interactable and playable
-- song section in my own bio
-- Incomplete: Friends.exe is constantly being updated. Profiles still incomplete
+- song section on my bio
+- Incomplete: Friends.exe is constantly being updated. Profiles still unfinished.
 - thinking of making these songs in 8-bit?
+- This Logs.exe app was highkey a pain in the ass to make because I had to debug an error that wasnt even showing up properly in the console
         </div>
       </div>
     `);

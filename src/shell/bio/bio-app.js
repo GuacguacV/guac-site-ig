@@ -88,7 +88,7 @@ export class BioApp extends Application {
           <div class="bio-about-label">Something About Me</div>
 
           <p>
-            "Oh shittings - I try my best!"
+            "Oh shittings - I love life and everything it has to offer -- I try my best"
           </p>
         </div>
 
