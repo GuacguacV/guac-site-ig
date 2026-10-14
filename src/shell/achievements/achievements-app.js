@@ -36,7 +36,13 @@ description:
 type: "real",
 title: "PRO BONO+",
 description:
-"Got into Freelaw, which he deems to be pretty cool.",
+"Got into Freelaw--pretty cool!",
+},
+{
+type: "real",
+title: "Academic Representative",
+description:
+"University-wide Academic Representative, representing students across the University and advocating for their academic interests and concerns.",
 },
 {
 type: "real",
@@ -90,7 +96,7 @@ description:
 type: "funny",
 title: "WEBSITE DEVELOPER",
 description:
-"Started building a Windows 98 website instead of working his CV.",
+"Started building a Windows 98 website instead of updating his CV.",
 },
 ];
 
