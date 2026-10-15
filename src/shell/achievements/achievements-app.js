@@ -48,7 +48,7 @@ description:
 type: "real",
 title: "Faculty Councilor",
 description:
-"Elected to represent students across the Faculty of Arts & Humanities at Students’ Union Council, voting for policies that affect the wider university community on behalf of this faculty.",
+"Elected to represent students across the Faculty of Arts & Humanities at Students’ Union Council, voting for policies on behalf of this faculty.",
 },
 {
 type: "real",
