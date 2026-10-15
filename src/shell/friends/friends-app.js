@@ -13,14 +13,24 @@ import "./friends.css";
 
 const FRIENDS = [
   {
-    name: "Lumi",
-    nickname: "Nickname / Alias",
-    about: "XY.",
-    personality: "XY.",
-    favourites: "XY.",
-    songTitle: "XY",
-    artist: "XY",
-    songNote: "XY.",
+ name: "Lumiere",
+    nickname: "Lumi",
+    about: `Harrooo!! Im Lumiere !! 
+    ♦ 19 
+    ♦ Artist on occasions 
+    ♦ Addicted to coffee... 
+    ♦ Currently a software development student !!`,
+    personality: `Usually im quiet on the first meeting though, once I warm up I can be quite the chatterbox !! 
+    ♦ INPT-T 
+    ♦ Enneagram Type: 9`,
+favourites: `♦ Reading FVN's
+♦ Drawing
+♦ Yapping to friends about said FVN's
+♦ Gaming!`,    
+  songTitle: "Love Like You",
+    artist: "Steven Universe",
+    songNote: "\"One of my fav comfort songs yesyes.\"",
+    image: "/guac-site-ig/pfps/lumi-pfp.jpg",
   },
   {
     name: "Klee",
@@ -38,7 +48,15 @@ const FRIENDS = [
     nickname: "Nickname / Alias",
     about: "An aspiring future wife, dedicating my strength, hard work, and resilience to my future family. Interested in business, finance, and compliance law which I look forward to applying in my practice internationally. Heavily into wasians and arm workouts.",
     personality: "Good mixture of nonchalant and funny. Into wasians. Ambivert. Loves calm sports and hobbies. Loves hanging out with girls and talking about anything life or fun. Down for anything, and wants to life max.",
-    favourites: "Wasians, Reading, Football and equestrian, Piano, Gym, pokemon, Newjeans and Blackpink, Religious Christian/Catholic, Fashion (high luxury brands - Bape, Supreme, LV, etc)",
+    favourites:  `   • Wasians
+    • Reading
+    • Football and equestrian
+    • Piano
+    • Gym
+    • pokemon
+    • Newjeans and Blackpink
+    • Religious Christian/Catholic
+    • Fashion (high luxury brands - Bape, Supreme, LV, etc)`,
     songTitle: "Steeeam",
     artist: "Shelly",
     songNote: "",
@@ -78,17 +96,19 @@ const FRIENDS = [
   },
    {
     name: "Spadree",
-    nickname: "Nickname / Alias",
-    about: "XY.",
-    personality: "XY.",
-    favourites: "Bingo.",
-    songTitle: "Song Title",
-    artist: "Artist Name",
-    songNote: "XY.",
+    nickname: "Campadre",
+    about: "I am a student going for media informatics (programming design and yap), I enjoy anime, music, digital art, pc, languages and what not.",
+    personality: "ENFP, Timid but outgoing.",
+    favourites: "Pc design, playing games idk, Piano (dont play much, but enjoy it), Digital Drawing, Traveling, just pc work.",
+    songTitle: "Weathergirl",
+    artist: "Flavor Foley",
+    songNote: "\"I relate to it.\"",
+        image: "/guac-site-ig/pfps/spadree-pfp.gif",
+
   },
    {
     name: "Jay",
-    nickname: "Nickname / Alias",
+    nickname: "",
     about: "Science guy in oncology/hematology, full time dumbass.",
     personality: "Bold and  forthright.",
     favourites: "Music, bowling, nerd shit and everything food.",
